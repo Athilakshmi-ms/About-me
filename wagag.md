@@ -12,11 +12,11 @@ While Git is a tool that's used to manage multiple versions of source code edits
 
 ## GitHub
 
-GitHub, Inc. is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. 
+GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. 
 
-#### **_Also explained as_**
+> #### **_Also explained as_**
 
-GitHub allows people to store their work, as well as network with like-minded developers. The system facilitates the interaction of these people, who can view, or even access, each other's work and discuss errors, and of course, potential solutions.
+> GitHub allows people to store their work, as well as network with like-minded developers. The system facilitates the interaction of these people, who can view, or even access, each other's work and discuss errors, and of course, potential solutions.
 
 #### What are GitHub's Features?
 - Easy Project Management. ...
