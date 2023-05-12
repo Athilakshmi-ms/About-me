@@ -7,7 +7,7 @@
 #### Surprising skills of mine:
 
 - I love to do **Pencil portrait sketching**
-- I like **Doodling** and making **Mandala patterns** 
+- I like drawing **Doodles** and **Mandala patterns** 
 - Making **Handmade clay jewelries** is my passion
 
 #### Things I like the most:
@@ -16,7 +16,7 @@
 - Music
 - Puppies
 
-#### Objectives that I want to achieve during BeCode:
+#### Objectives (during BeCode):
 
 > To create good looking webpages from scratch
 > 
