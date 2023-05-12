@@ -31,7 +31,7 @@ Work as a Team with you all amazing **"Johnson-09"**
 
 #### To work as a team:
 
-Communicating, supporting each others and taking responsibilities are the things I value the most.
+Communicating, supporting each other and taking responsibilities are the things I value the most.
 
 ![cool](https://media.giphy.com/media/AWNxDbtHGIJDW/giphy.gif)
 
