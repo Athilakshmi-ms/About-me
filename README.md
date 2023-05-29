@@ -27,7 +27,7 @@ I shouldn't have any! (I pray)
 
 #### I'm looking forward to:
 
-Work as a Team with you all amazing **"Johnson-09"** 
+Work as a Team with you all amazing **"Johnsons-09"** 
 
 #### To work as a team:
 
